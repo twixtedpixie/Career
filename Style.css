@@ -1,0 +1,23 @@
+body{
+    background-image: url(Assets/PurpleFlowerBackground.jpg);
+}
+header{
+    margin: 0px auto;
+    background-color: rgb(136, 59, 212);
+    width: 1000px;
+    height: 100px;
+}
+
+nav{
+    width: 1000px;
+    margin: 0px auto;
+    background-color: rgb(202, 67, 220);
+    height: 40px;
+}
+article{
+    margin: 0px auto;
+    background-color: rgb(187, 212, 255);
+    width: 1000px;
+    height: 500px;
+    overflow: auto;
+}
