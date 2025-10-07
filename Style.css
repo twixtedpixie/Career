@@ -2,22 +2,220 @@ body{
     background-image: url(Assets/PurpleFlowerBackground.jpg);
 }
 header{
+    border: dotted 7px white;
+    border-radius: 50px 50px  0px 0px ;
     margin: 0px auto;
-    background-color: rgb(136, 59, 212);
-    width: 1000px;
+    background: radial-gradient(ellipse at center,  rgb(153,95,211) 24%,rgb(136,59,212) 56%,rgb(68,0,137) 100%);
+    width: 988px;
     height: 100px;
+}
+a:link#links{
+    border: 5px outset;
+    border-radius: 10px;
+    margin-left: 70px;
+    margin-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: linear-gradient(to right,  rgb(245,170,255) 56%,rgb(239,140,255) 100%);
+}
+a:link#links2{
+    border: 5px outset;
+    border-radius: 10px;
+    margin: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: linear-gradient(to right,  rgb(239,140,255) 56%,rgb(235,122,255) 100%);
+}
+a:link#links3{
+    border: 5px outset;
+    border-radius: 10px;
+    margin: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: linear-gradient(to right,  rgb(235,122,255) 56%,rgb(222,94,255) 100%);
+
+}
+a:link#links4{
+    border: 5px outset;
+    border-radius: 10px;
+    margin: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: linear-gradient(to right,  rgb(222,94,255) 57%,rgb(209,61,255) 100%);
+}
+a:link#links5{
+    border: 5px outset;
+    border-radius: 10px;
+    margin: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: linear-gradient(to right,  rgb(209,61,255) 57%,rgb(200,38,255) 100%);
+}
+a:link#links6{
+    border: 5px outset;
+    border-radius: 10px;
+    margin: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: linear-gradient(to right,  rgb(200,38,255) 57%,rgb(187,0,255) 100%);
+
+}
+
+a:hover#links{
+    border: 5px outset rgb(51, 145, 118);
+    background: radial-gradient(ellipse at center,  rgb(48,204,157) 24%,rgb(41,142,170) 57%,rgb(91,0,165) 100%);
+    border-radius: 10px;
+    margin-left: 70px;
+    margin-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+a:hover#links2{
+    border: 5px outset rgb(51, 145, 118);
+    background: radial-gradient(ellipse at center,  rgb(48,204,157) 24%,rgb(41,142,170) 57%,rgb(91,0,165) 100%);;
+    border-radius: 10px;
+    margin: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+a:hover#links3{
+    border: 5px outset rgb(51, 145, 118);
+    background: radial-gradient(ellipse at center,  rgb(48,204,157) 24%,rgb(41,142,170) 57%,rgb(91,0,165) 100%);
+    border-radius: 10px;
+    margin: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+a:hover#links4{
+    border: 5px outset rgb(51, 145, 118);
+    background: radial-gradient(ellipse at center,  rgb(48,204,157) 24%,rgb(41,142,170) 57%,rgb(91,0,165) 100%);
+    border-radius: 10px;
+    margin: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+a:hover#links5{
+    border: 5px outset rgb(51, 145, 118);
+    background: radial-gradient(ellipse at center,  rgb(48,204,157) 24%,rgb(41,142,170) 57%,rgb(91,0,165) 100%);
+    border-radius: 10px;
+    margin: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+a:hover#links6{
+    border: 5px outset rgb(51, 145, 118);
+    background: radial-gradient(ellipse at center,  rgb(48,204,157) 24%,rgb(41,142,170) 57%,rgb(91,0,165) 100%);
+    border-radius: 10px;
+    margin: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+a:active#links{
+    border: 5px inset rgb(51, 145, 118);
+    background: radial-gradient(ellipse at center,  rgb(48,204,157) 24%,rgb(41,142,170) 57%,rgb(91,0,165) 100%);
+    border-radius: 10px;
+    margin-left: 70px;
+    margin-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+a:active#links2{
+    border: 5px inset rgb(51, 145, 118);
+    background: radial-gradient(ellipse at center,  rgb(48,204,157) 24%,rgb(41,142,170) 57%,rgb(91,0,165) 100%);;
+    border-radius: 10px;
+    margin: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+a:active#links3{
+    border: 5px inset rgb(51, 145, 118);
+    background: radial-gradient(ellipse at center,  rgb(48,204,157) 24%,rgb(41,142,170) 57%,rgb(91,0,165) 100%);
+    border-radius: 10px;
+    margin: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+a:active#links4{
+    border: 5px inset rgb(51, 145, 118);
+    background: radial-gradient(ellipse at center,  rgb(48,204,157) 24%,rgb(41,142,170) 57%,rgb(91,0,165) 100%);
+    border-radius: 10px;
+    margin: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+a:active#links5{
+    border: 5px inset rgb(51, 145, 118);
+    background: radial-gradient(ellipse at center,  rgb(48,204,157) 24%,rgb(41,142,170) 57%,rgb(91,0,165) 100%);
+    border-radius: 10px;
+    margin: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+a:active#links6{
+    border: 5px inset rgb(51, 145, 118);
+    background: radial-gradient(ellipse at center,  rgb(48,204,157) 24%,rgb(41,142,170) 57%,rgb(91,0,165) 100%);
+    border-radius: 10px;
+    margin: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 nav{
+    border-top: solid  13px rgb(182, 66, 197);
     width: 1000px;
     margin: 0px auto;
-    background-color: rgb(202, 67, 220);
-    height: 40px;
+    background-color: rgb(182, 66, 197);
+    height: 30px;
 }
 article{
+
     margin: 0px auto;
     background-color: rgb(187, 212, 255);
     width: 1000px;
     height: 500px;
     overflow: auto;
+}
+.bodytxt{
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration: none;
 }
