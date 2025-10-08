@@ -1,12 +1,13 @@
 body{
     background-image: url(Assets/PurpleFlowerBackground.jpg);
+    background-size: 850px;
 }
 header{
     border: dotted 7px white;
-    border-radius: 50px 50px  0px 0px ;
+    border-radius: 50px 50px  20px 20px ;
     margin: 0px auto;
     background: radial-gradient(ellipse at center,  rgb(153,95,211) 24%,rgb(136,59,212) 56%,rgb(68,0,137) 100%);
-    width: 988px;
+    width: 1000px;
     height: 100px;
 }
 a:link#links{
@@ -198,17 +199,22 @@ a:active#links6{
 }
 
 nav{
-    border-top: solid  13px rgb(182, 66, 197);
+    border-radius: 30px;
+    border: dotted  7px rgb(255, 255, 255);
     width: 1000px;
     margin: 0px auto;
-    background-color: rgb(182, 66, 197);
-    height: 30px;
+    background: radial-gradient(ellipse at center,  rgb(188, 97, 200) 0%,rgb(182,66,197) 50%,rgb(168,3,193) 100%);
+    height: 35px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 article{
-
+    padding: 15px;
+    border: dotted 7px white;
+    border-radius: 20px;
     margin: 0px auto;
-    background-color: rgb(187, 212, 255);
-    width: 1000px;
+    background: radial-gradient(ellipse at center,  rgb(206,226,237) 1%,rgb(170,216,239) 51%,rgb(107,176,229) 100%);
+    width: 970px;
     height: 500px;
     overflow: auto;
 }
