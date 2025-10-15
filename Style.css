@@ -8,13 +8,13 @@ header{
     margin: 0px auto;
     background: radial-gradient(ellipse at center,  rgb(153,95,211) 24%,rgb(136,59,212) 56%,rgb(68,0,137) 100%);
     width: 1000px;
-    height: 100px;
+    height: 85px;
 }
 a:link#links{
     border: 5px outset;
     border-radius: 10px;
-    margin-left: 70px;
-    margin-right: 20px;
+    margin-left: 60px;
+    margin-right: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 10px;
@@ -24,7 +24,7 @@ a:link#links{
 a:link#links2{
     border: 5px outset;
     border-radius: 10px;
-    margin: 20px;
+    margin: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 10px;
@@ -34,7 +34,7 @@ a:link#links2{
 a:link#links3{
     border: 5px outset;
     border-radius: 10px;
-    margin: 20px;
+    margin: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 10px;
@@ -45,7 +45,7 @@ a:link#links3{
 a:link#links4{
     border: 5px outset;
     border-radius: 10px;
-    margin: 20px;
+    margin: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 10px;
@@ -55,7 +55,7 @@ a:link#links4{
 a:link#links5{
     border: 5px outset;
     border-radius: 10px;
-    margin: 20px;
+    margin: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 10px;
@@ -65,7 +65,7 @@ a:link#links5{
 a:link#links6{
     border: 5px outset;
     border-radius: 10px;
-    margin: 20px;
+    margin: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 10px;
@@ -78,8 +78,8 @@ a:hover#links{
     border: 5px outset rgb(51, 145, 118);
     background: radial-gradient(ellipse at center,  rgb(48,204,157) 24%,rgb(41,142,170) 57%,rgb(91,0,165) 100%);
     border-radius: 10px;
-    margin-left: 70px;
-    margin-right: 20px;
+    margin-left: 60px;
+    margin-right: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 10px;
@@ -89,7 +89,7 @@ a:hover#links2{
     border: 5px outset rgb(51, 145, 118);
     background: radial-gradient(ellipse at center,  rgb(48,204,157) 24%,rgb(41,142,170) 57%,rgb(91,0,165) 100%);;
     border-radius: 10px;
-    margin: 20px;
+    margin: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 10px;
@@ -99,7 +99,7 @@ a:hover#links3{
     border: 5px outset rgb(51, 145, 118);
     background: radial-gradient(ellipse at center,  rgb(48,204,157) 24%,rgb(41,142,170) 57%,rgb(91,0,165) 100%);
     border-radius: 10px;
-    margin: 20px;
+    margin: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 10px;
@@ -109,7 +109,7 @@ a:hover#links4{
     border: 5px outset rgb(51, 145, 118);
     background: radial-gradient(ellipse at center,  rgb(48,204,157) 24%,rgb(41,142,170) 57%,rgb(91,0,165) 100%);
     border-radius: 10px;
-    margin: 20px;
+    margin: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 10px;
@@ -119,7 +119,7 @@ a:hover#links5{
     border: 5px outset rgb(51, 145, 118);
     background: radial-gradient(ellipse at center,  rgb(48,204,157) 24%,rgb(41,142,170) 57%,rgb(91,0,165) 100%);
     border-radius: 10px;
-    margin: 20px;
+    margin: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 10px;
@@ -129,7 +129,7 @@ a:hover#links6{
     border: 5px outset rgb(51, 145, 118);
     background: radial-gradient(ellipse at center,  rgb(48,204,157) 24%,rgb(41,142,170) 57%,rgb(91,0,165) 100%);
     border-radius: 10px;
-    margin: 20px;
+    margin: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 10px;
@@ -140,8 +140,8 @@ a:active#links{
     border: 5px inset rgb(51, 145, 118);
     background: radial-gradient(ellipse at center,  rgb(48,204,157) 24%,rgb(41,142,170) 57%,rgb(91,0,165) 100%);
     border-radius: 10px;
-    margin-left: 70px;
-    margin-right: 20px;
+    margin-left: 60px;
+    margin-right: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 10px;
@@ -151,7 +151,7 @@ a:active#links2{
     border: 5px inset rgb(51, 145, 118);
     background: radial-gradient(ellipse at center,  rgb(48,204,157) 24%,rgb(41,142,170) 57%,rgb(91,0,165) 100%);;
     border-radius: 10px;
-    margin: 20px;
+    margin: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 10px;
@@ -161,7 +161,7 @@ a:active#links3{
     border: 5px inset rgb(51, 145, 118);
     background: radial-gradient(ellipse at center,  rgb(48,204,157) 24%,rgb(41,142,170) 57%,rgb(91,0,165) 100%);
     border-radius: 10px;
-    margin: 20px;
+    margin: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 10px;
@@ -171,7 +171,7 @@ a:active#links4{
     border: 5px inset rgb(51, 145, 118);
     background: radial-gradient(ellipse at center,  rgb(48,204,157) 24%,rgb(41,142,170) 57%,rgb(91,0,165) 100%);
     border-radius: 10px;
-    margin: 20px;
+    margin: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 10px;
@@ -181,7 +181,7 @@ a:active#links5{
     border: 5px inset rgb(51, 145, 118);
     background: radial-gradient(ellipse at center,  rgb(48,204,157) 24%,rgb(41,142,170) 57%,rgb(91,0,165) 100%);
     border-radius: 10px;
-    margin: 20px;
+    margin: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 10px;
@@ -191,7 +191,7 @@ a:active#links6{
     border: 5px inset rgb(51, 145, 118);
     background: radial-gradient(ellipse at center,  rgb(48,204,157) 24%,rgb(41,142,170) 57%,rgb(91,0,165) 100%);
     border-radius: 10px;
-    margin: 20px;
+    margin: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 10px;
@@ -202,9 +202,10 @@ nav{
     border-radius: 30px;
     border: dotted  7px rgb(255, 255, 255);
     width: 1000px;
+    padding-top: 8px;
     margin: 0px auto;
     background: radial-gradient(ellipse at center,  rgb(188, 97, 200) 0%,rgb(182,66,197) 50%,rgb(168,3,193) 100%);
-    height: 35px;
+    height: 30px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
@@ -215,7 +216,7 @@ article{
     margin: 0px auto;
     background: radial-gradient(ellipse at center,  rgb(206,226,237) 1%,rgb(170,216,239) 51%,rgb(107,176,229) 100%);
     width: 970px;
-    height: 500px;
+    height: 340px;
     overflow: auto;
 }
 .bodytxt{
